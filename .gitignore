@@ -24,3 +24,4 @@ ENV/
 # Node project dependencies and settings
 **/node_modules/
 
+Notes.md
